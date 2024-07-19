@@ -1,1 +1,2 @@
-# BlackJack_RL_methods
+## Optimizing Blackjack Strategies: A Reinforcement Learning Approach
+
