@@ -2,8 +2,9 @@
 
 ### Files
 
-- `TaskP3.1.ipynb`: Whole implementation in one notebook.
+- `TaskP3.1.ipynb`: Whole implementation in one notebook in ipynb format.
 - `TaskP3.2.pdf`: Scientific paper in the IEEE format.
+-  `TaskP3.1.html`: Whole implementation in one notebook in html format.
 - `3rd citation.pdf`, `4th citation.pdf`, `5th citation.pdf`: All references and citations used for this work.
 - Books refered: 
   - "Beat the Dealer" by Edward O. Thorp
